@@ -1,0 +1,5 @@
+{
+    content: `content stuff...`,
+    type: 'explanation',
+    title: 'Understand how react works'
+}
